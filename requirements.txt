@@ -1,0 +1,17 @@
+torch
+transformers
+datasets
+trl
+accelerate
+peft
+mergekit
+huggingface_hub
+pandas
+numpy
+matplotlib
+scikit-learn
+tqdm
+pyyaml
+sentencepiece
+jupyter
+ipykernel
