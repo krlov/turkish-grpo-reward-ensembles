@@ -1,0 +1,7 @@
+Model,N,Accuracy,Format rate,Dist_A,Dist_B,Dist_C,Dist_D,Dist_E,Dominant share,Entropy(bits)
+Baseline,500,0.19,1.0,0,0,0,0,500,1.0,0.0
+Alternatif-1,500,0.19,1.0,0,0,500,0,0,1.0,0.0
+Alternatif-2,500,0.19,1.0,0,0,0,0,500,1.0,0.0
+Alternatif-3,500,0.19,1.0,0,0,0,0,500,1.0,0.0
+Alternatif-4,500,0.19,1.0,0,0,0,0,500,1.0,0.0
+Merged,500,0.176,1.0,0,0,206,0,294,0.588,0.9775387286988189
